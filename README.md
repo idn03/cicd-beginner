@@ -19,6 +19,10 @@
 6. **Build và deploy:** artifact có thể tái lập, environments, secrets, staging/production, approval, smoke test, rollback và theo dõi sau triển khai.
 7. **Bảo mật và độ tin cậy:** quyền tối thiểu của `GITHUB_TOKEN`, pin action, không ghi secrets vào log, dependency updates và xử lý lỗi.
 
+## Kế hoạch học chi tiết
+
+Lộ trình từng bài nằm trong [docs/plan/](docs/plan/README.md), gồm mục tiêu, khái niệm, bài thực hành và tiêu chí hoàn thành cho từng bước.
+
 ## Lộ trình thực hành
 
 ### Giai đoạn 1 — Xác định dự án cần kiểm tra

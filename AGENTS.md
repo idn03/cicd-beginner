@@ -5,6 +5,7 @@
 This repository is a beginner-first, hands-on guide to CI/CD. The learner wants to understand where to start, how to write and explain scripts for TypeScript and SQL projects, how GitHub Rulesets protect branches, how to organize a repository, and what to consider when deploying.
 
 The README is the current project overview and learning roadmap. At the start of this repository, there is no application stack, database, package manager, or hosting provider selected. Do not assume one without grounding it in the user's request or repository contents.
+The detailed, ordered lesson plan lives in `docs/plan/README.md` and its linked lesson files. Treat those files as the curriculum source of truth; keep them and the root README aligned as the project evolves.
 
 ## How to work in this repository
 
